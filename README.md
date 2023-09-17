@@ -1,19 +1,8 @@
-This is a github repo to manage my github assignments on different branches
+**Solution1** = To run the app again run the command npm i or npm install to install the node modules
 
-If you want to see those assignmnets, clone this repo and move to the branches like for chapter 1 go to branch react-1
+**Solution2** = To remove the double console log we have to remove the React Strict mode or use react developer tools to disable the double console output
 
-Here are the questions I will be covering in the assignments
+**Solution3** = For creating multiple react apps we need to add multiple ReactDOM.render functions inside the index.js file 
 
+**Solution4**  = To install react app using vite we need to run the command npm create vite@latest and then select the framework we want to use
 
-**React JS Series**
-
-**Chapter 1 - Introduction to React & Setup**
-
-Assignment 1 : If we delete node_modules. How to run our app again successfully ?
-
-Assignment 2 : How to remove double console.logs from React ? [ it is not needed in real life to remove them, its just an assignment problem ]. [ Hint: Some special Component at top level is of App is causing it ]. We explore more about - why this is needed in later videos.
-
-Special Assignments ==============
-Assignment 3 : Create a Page with multiple React Apps. Both React Apps should be independent of each other.
-
-Assignment 4 : Try to build a react app using other toolchains like Vite
